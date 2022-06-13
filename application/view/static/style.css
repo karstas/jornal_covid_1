@@ -1,0 +1,24 @@
+.header{
+  background-color: rgb(136, 43, 43);
+  display: flex;
+  justify-content: space-evenly;
+}
+.estados{
+  font-size: large;
+  display: inline-block;
+}
+.scrollestado{
+  font-size: 50px;
+  height: 125px;
+  width: 360px;
+}
+body{
+  background-color: rgba(13, 65, 133, 0.349);
+}
+.flag{
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  right: 10mm;
+  top: 25mm;
+}
